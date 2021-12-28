@@ -1,0 +1,15 @@
+D:\Çalışmalar\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+D:\Çalışmalar\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+D:\Çalışmalar\Northwind\Northwind.Interface\bin\Debug\net5.0\ref\Northwind.Interface.dll
+D:\Çalışmalar\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+D:\Çalışmalar\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.dll
+D:\Çalışmalar\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CopyComplete
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+D:\Çalışmalar\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb

@@ -1,0 +1,15 @@
+D:\Çalışmalar\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.deps.json
+D:\Çalışmalar\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.json
+D:\Çalışmalar\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.runtimeconfig.dev.json
+D:\Çalışmalar\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.dll
+D:\Çalışmalar\Northwind\Northwind.Entity\bin\Debug\net5.0\ref\Northwind.Entity.dll
+D:\Çalışmalar\Northwind\Northwind.Entity\bin\Debug\net5.0\Northwind.Entity.pdb
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.AssemblyReference.cache
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfoInputs.cache
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.AssemblyInfo.cs
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.csproj.CoreCompileInputs.cache
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.dll
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\ref\Northwind.Entity.dll
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.pdb
+D:\Çalışmalar\Northwind\Northwind.Entity\obj\Debug\net5.0\Northwind.Entity.genruntimeconfig.cache

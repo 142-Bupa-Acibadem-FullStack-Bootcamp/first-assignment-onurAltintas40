@@ -1,0 +1,11 @@
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.exe
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.dll
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.deps.json
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.runtimeconfig.json
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Northwind.WebApi.pdb
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Çalışmalar\Northwind\Northwind.WebApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
